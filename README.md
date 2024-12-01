@@ -1,4 +1,4 @@
-# Maids in waiting Talent
+# Maids-in-waiting Talent
 
 ## Maid Talent
 
@@ -8,11 +8,11 @@
 
 ## Text Document
 
-[Business Class](./BusinessClass.txt)
+[Business Class](BusinessClass.txt)
 
 ## Travel Agenda Items
 
-- ```Name = Mr. TekjobCloud```
+- ```Name = His Excellence Sultan Raphael```
 - ```Class = Class 6.0```
 - ```Desired Income = $750k+```
 - ```Desired Region = South America```
