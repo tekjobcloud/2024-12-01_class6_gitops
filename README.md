@@ -1,6 +1,6 @@
-# Local vs External Talent
+# Maids in waiting Talent
 
-## External Talent
+## Maid Talent
 
 ![IceCream](Andrea-Diaz.jpg)
 
@@ -15,6 +15,6 @@
 - ```Name = Mr. TekjobCloud```
 - ```Class = Class 6.0```
 - ```Desired Income = $750k+```
-- ```Desired Region = Africa```
-- ```Planned Countries = Colobmia```
+- ```Desired Region = South America```
+- ```Planned Countries = Colombia```
 - ```Favorite Things = Fishing for Ice Cream```
