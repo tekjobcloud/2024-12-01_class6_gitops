@@ -16,5 +16,5 @@
 - ```Class = Class 6.0```
 - ```Desired Income = $750k+```
 - ```Desired Region = South America```
-- ```Planned Countries = Colobmia```
+- ```Planned Countries = Colombia```
 - ```Favorite Things = Fishing for Ice Cream```
