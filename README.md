@@ -10,7 +10,7 @@
 
 [Business Class](./BusinessClass.txt)
 
-## Travel Parameters
+## Travel Agenda Items
 
 - ```Name = Mr. TekjobCloud```
 - ```Class = Class 6.0```
