@@ -8,7 +8,7 @@
 
 ## Text Document
 
-[Passport Willing](./PassprtWilling.txt)
+[Business Class](./BusinessClass.txt)
 
 ## Travel Parameters
 
