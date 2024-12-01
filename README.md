@@ -15,6 +15,6 @@
 - ```Name = Mr. TekjobCloud```
 - ```Class = Class 6.0```
 - ```Desired Income = $750k+```
-- ```Desired Region = Africa```
+- ```Desired Region = South America```
 - ```Planned Countries = Colobmia```
 - ```Favorite Things = Fishing for Ice Cream```
