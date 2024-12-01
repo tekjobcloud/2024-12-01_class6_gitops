@@ -1,6 +1,6 @@
-# Local vs External Talent
+# Maids in waiting Talent
 
-## External Talent
+## Maid Talent
 
 ![IceCream](Andrea-Diaz.jpg)
 
